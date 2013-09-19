@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6"
+   name=""
+   committed-date="2006-08-28T13:10:02.342383Z"
+   url="http://svn.mysql.com/svnpublic/mysqli_converter/MySQLConverterTool/GUI"
+   last-author="uwendel"
+   kind="dir"
+   uuid="366cee77-c380-44c0-aa1c-990a1e0ff0dc"
+   repos="http://svn.mysql.com/svnpublic/mysqli_converter"
+   revision="11"/>
+<entry
+   name="snippets"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="convert_file.php"
+   text-time="2006-09-07T02:43:44.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="e001e2370fded1cea99d3865f29d918e"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   committed-rev="3"
+   name="convert_snippet.php"
+   text-time="2006-09-07T02:43:44.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="5a1a994384633eba6d7c681df924f741"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="3"
+   name="convert_directory.php"
+   text-time="2006-09-07T02:43:44.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="a327c4c0a66619b6d6c04519caab47d4"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="5"
+   name="index.php"
+   text-time="2006-09-07T02:43:44.000000Z"
+   committed-date="2006-08-28T13:09:14.589735Z"
+   checksum="e265fb05bb666db9e5d8ed3fd844430d"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="3"
+   name="help.php"
+   text-time="2006-09-07T02:43:44.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="5249ef1bd1288beb61113d4ab0282243"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+</wc-entries>

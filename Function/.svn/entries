@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2006-09-28T08:12:53.940894Z"
+   url="http://svn.mysql.com/svnpublic/mysqli_converter/MySQLConverterTool/Function"
+   last-author="uwendel"
+   kind="dir"
+   uuid="366cee77-c380-44c0-aa1c-990a1e0ff0dc"
+   repos="http://svn.mysql.com/svnpublic/mysqli_converter"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Error.php"
+   text-time="2006-09-28T08:27:20.000000Z"
+   committed-date="2006-09-28T08:12:53.940894Z"
+   checksum="7ddadff1d3c84bbba4c53b477c850d20"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-28T08:27:20.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Connect.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="e36f56aaa45764aa8b7dc8db018edddf"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ConnParamBool.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="e1bebe0735da1370fdf20ae4bdaf0be0"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="3"
+   name="FieldTable.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="1ef89c4b55c23a3ec0f6316881ccb4c1"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="3"
+   name="RealEscapeString.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="e92a42f04130cd65c52c41f694539c89"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="3"
+   name="FetchField.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="d00c943809c385ddd9384695c262726e"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="3"
+   name="FieldFlags.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="768ea0fbe16f696c56f04b1d2e84ecb9"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="8"
+   name="ListFields.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-28T16:13:53.424139Z"
+   checksum="a7e4967b79ddfa604850d2de7c02d849"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ListProcesses.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="416a14a6859b915af889d8ed602ce706"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ListDBs.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="f81cb82eaac0c47213de8d33c3789a5e"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="8"
+   name="ListTables.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-28T16:13:53.424139Z"
+   checksum="af433f71507d5ad6e1d4052f2d627f87"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="8"
+   name="CreateDB.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-28T16:13:53.424139Z"
+   checksum="55957c262ca6e5ade7e2eb7416776a56"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="8"
+   name="DropDB.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-28T16:13:53.424139Z"
+   checksum="6e9528c910b11729d50eda3758f7cf27"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="10"
+   name="DBQuery.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-28T16:36:43.873259Z"
+   checksum="a514f1e2b3aec158987ef88a5d0c425f"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:45.000000Z"/>
+<entry
+   committed-rev="3"
+   name="UnbufferedQuery.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="2de4a15990e7e6cb2afaacfc2c7ba073"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:45.000000Z"/>
+<entry
+   committed-rev="8"
+   name="Generic.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-28T16:13:53.424139Z"
+   checksum="ff6d52d244c6dd29424a0419b6439253"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:45.000000Z"/>
+<entry
+   committed-rev="3"
+   name="GenericBoolean.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="ab0a17dbf6d4d2937b7e82e2a49c853d"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:45.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ConnParam.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="154850c2e9a8b24896e8469a5d7b3468"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:45.000000Z"/>
+<entry
+   committed-rev="3"
+   name="FreeResult.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="7570b6b0243db29ffee9c3286b4db586"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:45.000000Z"/>
+<entry
+   committed-rev="3"
+   name="FieldLen.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="b8f93140fd0bd13023cea72af512f3fa"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:45.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ParReversed.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="04c5689049ed3b3c0818e81f150a964d"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:45.000000Z"/>
+<entry
+   committed-rev="3"
+   name="FieldName.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="687df5bb8b33951543e6db07e3ed34a1"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:45.000000Z"/>
+<entry
+   committed-rev="3"
+   name="ChangeUser.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="b6d675d76aa5e35831bdf541c6b6604d"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:45.000000Z"/>
+<entry
+   committed-rev="3"
+   name="FieldType.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="8cbad9e405614b9ff4755a3218d0244b"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:45.000000Z"/>
+<entry
+   committed-rev="8"
+   name="SelectDB.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-28T16:13:53.424139Z"
+   checksum="7fee09265f4e518f6771d822c22f5fd1"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:45.000000Z"/>
+<entry
+   committed-rev="3"
+   name="EscapeString.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="fa4b778969c3760a2d6740867ca93722"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:45.000000Z"/>
+<entry
+   committed-rev="3"
+   name="Tablename.php"
+   text-time="2006-09-07T02:43:45.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="6346bad8b11d44f5a085a5948259a077"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:45.000000Z"/>
+</wc-entries>

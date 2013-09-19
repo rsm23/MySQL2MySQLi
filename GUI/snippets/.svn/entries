@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6"
+   name=""
+   committed-date="2006-08-28T13:10:02.342383Z"
+   url="http://svn.mysql.com/svnpublic/mysqli_converter/MySQLConverterTool/GUI/snippets"
+   last-author="uwendel"
+   kind="dir"
+   uuid="366cee77-c380-44c0-aa1c-990a1e0ff0dc"
+   repos="http://svn.mysql.com/svnpublic/mysqli_converter"
+   revision="11"/>
+<entry
+   committed-rev="3"
+   name="show_converted_snippet.php"
+   text-time="2006-09-07T02:43:44.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="1e4c9a3cf6e7cd130d1910e80132b845"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="3"
+   name="show_converted_directory.php"
+   text-time="2006-09-07T02:43:44.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="8ce8ff2e28758af41c897fa4ae665f17"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="3"
+   name="footer.php"
+   text-time="2006-09-07T02:43:44.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="54a32dfa20ec34c058f92fa8ce0064b1"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="6"
+   name="form_file.php"
+   text-time="2006-09-07T02:43:44.000000Z"
+   committed-date="2006-08-28T13:10:02.342383Z"
+   checksum="5575ab485d9f42fc665ca55c5e06e937"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="3"
+   name="MySQLConverterTool_GUI_Snippets.php"
+   text-time="2006-09-07T02:43:44.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="86ad042fc48929a5509cdd0c223f0863"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="3"
+   name="form_snippet.php"
+   text-time="2006-09-07T02:43:44.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="c00d1448e54e42ac86cf5e1d2fb001a4"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="3"
+   name="form_directory.php"
+   text-time="2006-09-07T02:43:44.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="1336b0cf357adb31c1cd44304629b817"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="3"
+   name="header.php"
+   text-time="2006-09-07T02:43:44.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="e5cd7fcb62ed6a64cac8c60569eb4c20"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+<entry
+   committed-rev="3"
+   name="show_converted_file.php"
+   text-time="2006-09-07T02:43:44.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="fb65169e0d637991da5db571b2d75195"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+</wc-entries>

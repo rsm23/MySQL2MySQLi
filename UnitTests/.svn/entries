@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2006-09-28T08:12:53.940894Z"
+   url="http://svn.mysql.com/svnpublic/mysqli_converter/MySQLConverterTool/UnitTests"
+   last-author="uwendel"
+   kind="dir"
+   uuid="366cee77-c380-44c0-aa1c-990a1e0ff0dc"
+   repos="http://svn.mysql.com/svnpublic/mysqli_converter"
+   revision="11"/>
+<entry
+   committed-rev="3"
+   name="AllTests.php"
+   text-time="2006-09-07T02:43:44.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="19545f5dad5c65e56506638fcd324add"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:38.000000Z"/>
+<entry
+   name="Function"
+   kind="dir"/>
+<entry
+   name="Converter"
+   kind="dir"/>
+<entry
+   committed-rev="4"
+   name="README"
+   text-time="2006-09-07T02:43:44.000000Z"
+   committed-date="2006-08-24T10:04:54.465293Z"
+   checksum="ddcb3a81ff94eba6b2236b9d5725f306"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+</wc-entries>

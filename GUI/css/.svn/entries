@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2006-08-21T09:45:42.863852Z"
+   url="http://svn.mysql.com/svnpublic/mysqli_converter/MySQLConverterTool/GUI/css"
+   last-author="uwendel"
+   kind="dir"
+   uuid="366cee77-c380-44c0-aa1c-990a1e0ff0dc"
+   repos="http://svn.mysql.com/svnpublic/mysqli_converter"
+   revision="11"/>
+<entry
+   committed-rev="3"
+   name="main.css"
+   text-time="2006-09-07T02:43:44.000000Z"
+   committed-date="2006-08-21T09:45:42.863852Z"
+   checksum="2f8f528b1cf115c00dd7d48c9ed4e214"
+   last-author="uwendel"
+   kind="file"
+   prop-time="2006-09-07T02:43:44.000000Z"/>
+</wc-entries>
