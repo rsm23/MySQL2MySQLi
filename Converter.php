@@ -58,7 +58,7 @@ class MySQLConverterTool_Converter {
     * Scanner state constant
     *
     * @const
-    * @access protectd
+    * @access protected
     */
     const STATE_FUNC_FOUND    = 'func_found';
     
